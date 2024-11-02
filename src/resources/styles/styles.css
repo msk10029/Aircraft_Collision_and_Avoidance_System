@@ -1,0 +1,7 @@
+/* Add a border to the pane */
+#Pn_aircraftPane {
+    -fx-border-color: black;     /* Border color */
+    -fx-border-width: 2px;       /* Border width */
+    -fx-border-style: solid;     /* Border style: solid, dashed, etc. */
+    -fx-padding: 5px;            /* Optional: Padding inside the pane */
+}
