@@ -11,24 +11,6 @@ The Aircraft Collision Detection System (ACAS) is a JavaFX-based application des
 - Dynamic collision warning system with visual and textual alerts.
 - Configurable number of aircraft and collision parameters.
 
-## Project Structure
-```plaintext
-├── src/
-│   ├── main/
-│   │   ├── java/
-│   │   │   ├── com.example.acas/
-│   │   │   │   ├── App.java                # Main application file
-│   │   │   │   ├── Controller.java         # JavaFX Controller for UI interactions
-│   │   │   │   ├── Aircraft.java           # Aircraft class defining properties
-│   │   │   │   ├── CollisionDetector.java  # Collision detection logic
-│   │   └── resources/
-│   │       ├── images/                     # Folder for icons and graphics
-│   │       ├── fxml/                       # FXML files for JavaFX layout
-│   └── test/
-│       └── java/                           # Test cases for project modules
-└── README.md
-```
-
 ## Installation
 
 ### Prerequisites
@@ -83,4 +65,4 @@ Please make sure to document any changes you make and test thoroughly.
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
-For questions or suggestions, please reach out to [your.email@example.com].
+For questions or suggestions, please reach out to [msk10029@gmail.com].
