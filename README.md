@@ -20,7 +20,7 @@ The Aircraft Collision Detection System (ACAS) is a JavaFX-based application des
 ### Steps
 1. Clone this repository:
    ```sh
-   git clone https://github.com/yourusername/ACAS.git
+   git clone https://github.com/msk10029/Aircraft_Collision_and_Avoidance_System.git
    ```
 2. Navigate to the project directory:
    ```sh
