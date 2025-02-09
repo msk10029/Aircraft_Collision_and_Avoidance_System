@@ -24,7 +24,7 @@ The Aircraft Collision Detection System (ACAS) is a JavaFX-based application des
    ```
 2. Navigate to the project directory:
    ```sh
-   cd ACAS
+   cd Aircraft_Collision_and_Avoidance_System
    ```
 3. Set up JavaFX SDK:
    - Download the JavaFX SDK and add it to your project dependencies in your IDE (IntelliJ, Eclipse, or VSCode).
